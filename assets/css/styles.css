@@ -1,3 +1,22 @@
-*{
-    background: greenyellow;
-}
+ body {
+     /* .color1 {
+         background:  #ff1afa;
+     }
+
+     .color2 {
+         color: #ff299e;
+     }
+
+     .color3 {
+         color: #ffa473;
+     }
+
+     .color4 {
+         color: #fff487;
+     }
+
+     .color5 {
+         color: #ffffb1;
+     } */
+     background: lightgray;
+ }

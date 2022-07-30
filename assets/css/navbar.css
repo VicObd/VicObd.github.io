@@ -1,0 +1,10 @@
+.header{
+    overflow: hidden;
+    /* background: #000; */
+    display: block;
+    height: 90px;
+ }
+.logo{
+    padding: 10px;
+    padding-right: 30px;
+}
